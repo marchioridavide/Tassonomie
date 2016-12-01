@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace tassonomiee
 {
-    class Bipede:Animale_Terrestre
+    abstract class Bipede:Animale_Terrestre
     {
+        public Bipede(string nome,string tipo, string abitat,int zampe): base(nome, "Animale Terrestre", abitat, 2)
+        { }
     }
 }

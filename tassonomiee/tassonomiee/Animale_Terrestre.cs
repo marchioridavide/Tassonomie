@@ -8,8 +8,11 @@ namespace tassonomiee
 {
     abstract class Animale_Terrestre:animale
     {
-        public Animale_Terrestre(string nome,string tipo, string abitat,int zampe): base(nome, tipo, abitat, zampe)
+        public Animale_Terrestre(string nome,string tipo, string abitat,int zampe): base(nome, "Animale Terrestre", abitat, zampe)
         { }
-        
+        public override string siMuove()
+        {
+            return "cammino";
+        }
     }
 }

@@ -8,5 +8,7 @@ namespace tassonomiee
 {
     class Cavallo:Quadrupede
     {
+        public Cavallo(string nome,string tipo, string abitat,int zampe): base("cavallo", "Animale Terrestre", "prateria", 2)
+        { }
     }
 }

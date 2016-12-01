@@ -1,1 +1,3 @@
 C:\Users\cad\Documents\Visual Studio 2012\Projects\tassonomiee\tassonomiee\bin\Debug\tassonomiee.exe.config
+C:\Users\Linguistico\Desktop\Marchiori davide git\Tassonomie\tassonomiee\tassonomiee\bin\Debug\tassonomiee.exe.config
+C:\Users\Linguistico\Desktop\Marchiori davide git\Tassonomie\tassonomiee\tassonomiee\obj\Debug\tassonomiee.csprojResolveAssemblyReference.cache
