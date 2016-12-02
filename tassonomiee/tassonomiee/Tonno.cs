@@ -8,5 +8,7 @@ namespace tassonomiee
 {
     class Tonno:Animale_Marino
     {
+        public Tonno(): base("tonno", "Animale Acquatico", "mare", 0)
+        { }
     }
 }

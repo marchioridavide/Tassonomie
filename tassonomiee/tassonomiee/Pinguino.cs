@@ -8,5 +8,11 @@ namespace tassonomiee
 {
     class Pinguino:Uccello
     {
+        public Pinguino(): base("pinguino", "Animale Terrestre", "ghiaccio", 2)
+        { }
+        public override string siMuove()
+        {
+            return "cammino";
+        }
     }
 }

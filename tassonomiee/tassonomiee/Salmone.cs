@@ -8,5 +8,7 @@ namespace tassonomiee
 {
     class Salmone:Animale_Fluviale
     {
+        public Salmone(): base("salmone", "Animale Acquatico", "fiume", 0)
+        { }
     }
 }

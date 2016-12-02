@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tassonomiee
 {
-    class Pesce:animale
+    abstract class Pesce:animale
     {
         public Pesce(string nome,string tipo, string abitat,int zampe): base(nome, "Animale Acquatico", abitat, 0)
          {}

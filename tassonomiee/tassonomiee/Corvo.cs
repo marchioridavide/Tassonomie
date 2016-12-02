@@ -8,5 +8,11 @@ namespace tassonomiee
 {
     class Corvo:Uccello
     {
+        public Corvo(): base("corvo", "Animale Terrestre", "alberi", 2)
+        { }
+        public override string siMuove()
+        {
+            return "volo";
+        }
     }
 }

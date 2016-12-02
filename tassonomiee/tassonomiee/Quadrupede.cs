@@ -8,7 +8,7 @@ namespace tassonomiee
 {
    abstract class Quadrupede:Animale_Terrestre
     {
-        public Quadrupede(string nome,string tipo, string abitat,int zampe): base(nome, "Animale Terrestre", abitat, 2)
+        public Quadrupede(string nome,string tipo, string abitat,int zampe): base(nome, "Animale Terrestre", abitat, 4)
         { }
     }
 }
