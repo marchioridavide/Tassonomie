@@ -1,0 +1,7 @@
+C:\Users\Linguistico\Desktop\tassonomie e interfacce\tassonomie e interfacce\bin\Debug\tassonomie e interfacce.exe.config
+C:\Users\Linguistico\Desktop\Marchiori davide git\tassonomie e interfacce\tassonomie e interfacce\bin\Debug\tassonomie e interfacce.exe.config
+C:\Users\Linguistico\Desktop\Marchiori davide git\tassonomie e interfacce\tassonomie e interfacce\obj\Debug\tassonomie e interfacce.csprojResolveAssemblyReference.cache
+C:\Users\Linguistico\Desktop\Marchiori davide git\tassonomie e interfacce\tassonomie e interfacce\bin\Debug\tassonomie e interfacce.exe
+C:\Users\Linguistico\Desktop\Marchiori davide git\tassonomie e interfacce\tassonomie e interfacce\bin\Debug\tassonomie e interfacce.pdb
+C:\Users\Linguistico\Desktop\Marchiori davide git\tassonomie e interfacce\tassonomie e interfacce\obj\Debug\tassonomie e interfacce.exe
+C:\Users\Linguistico\Desktop\Marchiori davide git\tassonomie e interfacce\tassonomie e interfacce\obj\Debug\tassonomie e interfacce.pdb
